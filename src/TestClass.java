@@ -4,5 +4,9 @@ public class TestClass {
         System.out.println("Hello Git and GitHub");
         System.out.println("Just practicing");
         System.out.println("Practicing from UI");
+
+        System.out.println("Hello Git and GitHub");
+        System.out.println("Just practicing");
+        System.out.println("Practicing from UI");
     }
 }
